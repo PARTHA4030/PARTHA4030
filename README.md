@@ -1,6 +1,6 @@
 - 👋 Hi, I’m PARTHA PRATIM MONDAL
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning HTML,CSS,JS.
+- 🌱 I’m currently learning HTML,CSS,BootStrap,JS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
